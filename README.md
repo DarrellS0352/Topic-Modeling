@@ -1,2 +1,2 @@
 # Topic-Modeling
-NLP topic modeling work from masters program.
+NLP Latent Dirichlet Allocation (LDA) topic modeling work from masters program.
